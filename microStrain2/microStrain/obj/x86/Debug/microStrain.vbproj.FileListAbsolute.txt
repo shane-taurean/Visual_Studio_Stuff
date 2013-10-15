@@ -1,0 +1,55 @@
+C:\Users\hp9876\AppData\Local\Temporary Projects\microStrain\bin\Debug\microStrain.exe
+C:\Users\hp9876\AppData\Local\Temporary Projects\microStrain\bin\Debug\microStrain.pdb
+C:\Users\hp9876\AppData\Local\Temporary Projects\microStrain\bin\Debug\microStrain.xml
+C:\Users\hp9876\AppData\Local\Temporary Projects\microStrain\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hp9876\AppData\Local\Temporary Projects\microStrain\obj\x86\Debug\microStrain.Form1.resources
+C:\Users\hp9876\AppData\Local\Temporary Projects\microStrain\obj\x86\Debug\microStrain.Resources.resources
+C:\Users\hp9876\AppData\Local\Temporary Projects\microStrain\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\hp9876\AppData\Local\Temporary Projects\microStrain\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\hp9876\AppData\Local\Temporary Projects\microStrain\obj\x86\Debug\microStrain.exe
+C:\Users\hp9876\AppData\Local\Temporary Projects\microStrain\obj\x86\Debug\microStrain.xml
+C:\Users\hp9876\AppData\Local\Temporary Projects\microStrain\obj\x86\Debug\microStrain.pdb
+C:\Users\hp9876\documents\visual studio 2010\Projects\microStrain\microStrain\obj\x86\Debug\microStrain.exe
+C:\Users\hp9876\documents\visual studio 2010\Projects\microStrain\microStrain\obj\x86\Debug\microStrain.xml
+C:\Users\hp9876\documents\visual studio 2010\Projects\microStrain\microStrain\obj\x86\Debug\microStrain.pdb
+C:\Users\hp9876\documents\visual studio 2010\Projects\microStrain\microStrain\bin\Debug\microStrain.exe
+C:\Users\hp9876\documents\visual studio 2010\Projects\microStrain\microStrain\bin\Debug\microStrain.pdb
+C:\Users\hp9876\documents\visual studio 2010\Projects\microStrain\microStrain\bin\Debug\microStrain.xml
+C:\Users\hp9876\documents\visual studio 2010\Projects\microStrain\microStrain\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hp9876\documents\visual studio 2010\Projects\microStrain\microStrain\obj\x86\Debug\microStrain.Form1.resources
+C:\Users\hp9876\documents\visual studio 2010\Projects\microStrain\microStrain\obj\x86\Debug\microStrain.Resources.resources
+C:\Users\hp9876\documents\visual studio 2010\Projects\microStrain\microStrain\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\hp9876\documents\visual studio 2010\Projects\microStrain\microStrain\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DOCUMENTS\Visual Studio 2010\Projects\microStrain\microStrain\obj\x86\Debug\microStrain.exe
+E:\DOCUMENTS\Visual Studio 2010\Projects\microStrain\microStrain\obj\x86\Debug\microStrain.xml
+E:\DOCUMENTS\Visual Studio 2010\Projects\microStrain\microStrain\obj\x86\Debug\microStrain.pdb
+E:\DOCUMENTS\Visual Studio 2010\Projects\microStrain\microStrain\bin\Debug\microStrain.exe
+E:\DOCUMENTS\Visual Studio 2010\Projects\microStrain\microStrain\bin\Debug\microStrain.pdb
+E:\DOCUMENTS\Visual Studio 2010\Projects\microStrain\microStrain\bin\Debug\microStrain.xml
+E:\DOCUMENTS\Visual Studio 2010\Projects\microStrain\microStrain\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DOCUMENTS\Visual Studio 2010\Projects\microStrain\microStrain\obj\x86\Debug\microStrain.Form1.resources
+E:\DOCUMENTS\Visual Studio 2010\Projects\microStrain\microStrain\obj\x86\Debug\microStrain.Resources.resources
+E:\DOCUMENTS\Visual Studio 2010\Projects\microStrain\microStrain\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DOCUMENTS\Visual Studio 2010\Projects\microStrain\microStrain\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DOCUMENTS\Visual Studio 2010\Projects\mstr2\microStrain\obj\x86\Debug\microStrain.exe
+E:\DOCUMENTS\Visual Studio 2010\Projects\mstr2\microStrain\obj\x86\Debug\microStrain.xml
+E:\DOCUMENTS\Visual Studio 2010\Projects\mstr2\microStrain\obj\x86\Debug\microStrain.pdb
+E:\DOCUMENTS\Visual Studio 2010\Projects\mstr2\microStrain\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DOCUMENTS\Visual Studio 2010\Projects\mstr2\microStrain\obj\x86\Debug\microStrain.Form1.resources
+E:\DOCUMENTS\Visual Studio 2010\Projects\mstr2\microStrain\obj\x86\Debug\microStrain.Resources.resources
+E:\DOCUMENTS\Visual Studio 2010\Projects\mstr2\microStrain\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DOCUMENTS\Visual Studio 2010\Projects\mstr2\microStrain\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DOCUMENTS\Visual Studio 2010\Projects\mstr2\microStrain\bin\Debug\microStrain.exe
+E:\DOCUMENTS\Visual Studio 2010\Projects\mstr2\microStrain\bin\Debug\microStrain.pdb
+E:\DOCUMENTS\Visual Studio 2010\Projects\mstr2\microStrain\bin\Debug\microStrain.xml
+E:\DOCUMENTS\Visual Studio 2010\Projects\microStrain2\microStrain\obj\x86\Debug\microStrain.exe
+E:\DOCUMENTS\Visual Studio 2010\Projects\microStrain2\microStrain\obj\x86\Debug\microStrain.xml
+E:\DOCUMENTS\Visual Studio 2010\Projects\microStrain2\microStrain\obj\x86\Debug\microStrain.pdb
+E:\DOCUMENTS\Visual Studio 2010\Projects\microStrain2\microStrain\bin\Debug\microStrain.exe
+E:\DOCUMENTS\Visual Studio 2010\Projects\microStrain2\microStrain\bin\Debug\microStrain.pdb
+E:\DOCUMENTS\Visual Studio 2010\Projects\microStrain2\microStrain\bin\Debug\microStrain.xml
+E:\DOCUMENTS\Visual Studio 2010\Projects\microStrain2\microStrain\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DOCUMENTS\Visual Studio 2010\Projects\microStrain2\microStrain\obj\x86\Debug\microStrain.Form1.resources
+E:\DOCUMENTS\Visual Studio 2010\Projects\microStrain2\microStrain\obj\x86\Debug\microStrain.Resources.resources
+E:\DOCUMENTS\Visual Studio 2010\Projects\microStrain2\microStrain\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DOCUMENTS\Visual Studio 2010\Projects\microStrain2\microStrain\obj\x86\Debug\GenerateResource.write.1.tlog

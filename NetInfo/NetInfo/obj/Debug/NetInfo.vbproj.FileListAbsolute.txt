@@ -1,0 +1,62 @@
+F:\VS2008\NetInfo\NetInfo\obj\Debug\ResolveAssemblyReference.cache
+F:\VS2008\NetInfo\NetInfo\obj\Debug\NetInfo.Form1.resources
+F:\VS2008\NetInfo\NetInfo\obj\Debug\NetInfo.Resources.resources
+F:\VS2008\NetInfo\NetInfo\obj\Debug\NetInfo.vbproj.GenerateResource.Cache
+F:\VS2008\NetInfo\NetInfo\bin\Debug\NetInfo.exe
+F:\VS2008\NetInfo\NetInfo\bin\Debug\NetInfo.pdb
+F:\VS2008\NetInfo\NetInfo\bin\Debug\NetInfo.xml
+F:\VS2008\NetInfo\NetInfo\obj\Debug\NetInfo.exe
+F:\VS2008\NetInfo\NetInfo\obj\Debug\NetInfo.xml
+F:\VS2008\NetInfo\NetInfo\obj\Debug\NetInfo.pdb
+C:\Documents and Settings\TOPDOG1\Desktop\TakeEm\NetInfo\NetInfo\obj\Debug\NetInfo.exe
+C:\Documents and Settings\TOPDOG1\Desktop\TakeEm\NetInfo\NetInfo\obj\Debug\NetInfo.xml
+C:\Documents and Settings\TOPDOG1\Desktop\TakeEm\NetInfo\NetInfo\obj\Debug\NetInfo.pdb
+C:\Documents and Settings\TOPDOG1\Desktop\TakeEm\NetInfo\NetInfo\bin\Debug\NetInfo.exe
+C:\Documents and Settings\TOPDOG1\Desktop\TakeEm\NetInfo\NetInfo\bin\Debug\NetInfo.pdb
+C:\Documents and Settings\TOPDOG1\Desktop\TakeEm\NetInfo\NetInfo\bin\Debug\NetInfo.xml
+C:\Documents and Settings\TOPDOG1\Desktop\TakeEm\NetInfo\NetInfo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\TOPDOG1\Desktop\TakeEm\NetInfo\NetInfo\obj\Debug\NetInfo.Form1.resources
+C:\Documents and Settings\TOPDOG1\Desktop\TakeEm\NetInfo\NetInfo\obj\Debug\NetInfo.Resources.resources
+C:\Documents and Settings\TOPDOG1\Desktop\TakeEm\NetInfo\NetInfo\obj\Debug\NetInfo.vbproj.GenerateResource.Cache
+C:\Documents and Settings\TOPDOG1\Desktop\TakeEm\NetInfo\NetInfo\obj\Debug\NetInfo.About.resources
+C:\Documents and Settings\TOPDOG1\Desktop\TakeEm\NetInfo\NetInfo\obj\Debug\NetInfo.Config.resources
+C:\Documents and Settings\TOPDOG1\Desktop\TakeEm\NetInfo\NetInfo\bin\Debug\NetInfo.exe.manifest
+C:\Documents and Settings\TOPDOG1\Desktop\TakeEm\NetInfo\NetInfo\bin\Debug\NetInfo.application
+C:\Documents and Settings\TOPDOG1\Desktop\TakeEm\NetInfo\NetInfo\obj\Debug\NetInfo.exe.manifest
+C:\Documents and Settings\TOPDOG1\Desktop\TakeEm\NetInfo\NetInfo\obj\Debug\NetInfo.application
+F:\NetInfo\NetInfo\obj\Debug\NetInfo.exe
+F:\NetInfo\NetInfo\obj\Debug\NetInfo.xml
+F:\NetInfo\NetInfo\obj\Debug\NetInfo.pdb
+F:\NetInfo\NetInfo\bin\Debug\NetInfo.exe
+F:\NetInfo\NetInfo\bin\Debug\NetInfo.pdb
+F:\NetInfo\NetInfo\bin\Debug\NetInfo.xml
+F:\NetInfo\NetInfo\obj\Debug\ResolveAssemblyReference.cache
+F:\NetInfo\NetInfo\obj\Debug\NetInfo.About.resources
+F:\NetInfo\NetInfo\obj\Debug\NetInfo.Config.resources
+F:\NetInfo\NetInfo\obj\Debug\NetInfo.Form1.resources
+F:\NetInfo\NetInfo\obj\Debug\NetInfo.Resources.resources
+F:\NetInfo\NetInfo\obj\Debug\NetInfo.vbproj.GenerateResource.Cache
+E:\My Documents\SHANE\MSc\Projects\PART II proj\Idea 1 (Ethernet Robot)\GUI testouts\GUI-5__11-03-09\11-3-09NetInfo\NetInfo\NetInfo\obj\Debug\NetInfo.exe
+E:\My Documents\SHANE\MSc\Projects\PART II proj\Idea 1 (Ethernet Robot)\GUI testouts\GUI-5__11-03-09\11-3-09NetInfo\NetInfo\NetInfo\obj\Debug\NetInfo.xml
+E:\My Documents\SHANE\MSc\Projects\PART II proj\Idea 1 (Ethernet Robot)\GUI testouts\GUI-5__11-03-09\11-3-09NetInfo\NetInfo\NetInfo\obj\Debug\NetInfo.pdb
+E:\My Documents\SHANE\MSc\Projects\PART II proj\Idea 1 (Ethernet Robot)\GUI testouts\GUI-5__11-03-09\11-3-09NetInfo\NetInfo\NetInfo\bin\Debug\NetInfo.exe
+E:\My Documents\SHANE\MSc\Projects\PART II proj\Idea 1 (Ethernet Robot)\GUI testouts\GUI-5__11-03-09\11-3-09NetInfo\NetInfo\NetInfo\bin\Debug\NetInfo.pdb
+E:\My Documents\SHANE\MSc\Projects\PART II proj\Idea 1 (Ethernet Robot)\GUI testouts\GUI-5__11-03-09\11-3-09NetInfo\NetInfo\NetInfo\bin\Debug\NetInfo.xml
+E:\My Documents\SHANE\MSc\Projects\PART II proj\Idea 1 (Ethernet Robot)\GUI testouts\GUI-5__11-03-09\11-3-09NetInfo\NetInfo\NetInfo\obj\Debug\ResolveAssemblyReference.cache
+E:\My Documents\SHANE\MSc\Projects\PART II proj\Idea 1 (Ethernet Robot)\GUI testouts\GUI-5__11-03-09\11-3-09NetInfo\NetInfo\NetInfo\obj\Debug\NetInfo.About.resources
+E:\My Documents\SHANE\MSc\Projects\PART II proj\Idea 1 (Ethernet Robot)\GUI testouts\GUI-5__11-03-09\11-3-09NetInfo\NetInfo\NetInfo\obj\Debug\NetInfo.Config.resources
+E:\My Documents\SHANE\MSc\Projects\PART II proj\Idea 1 (Ethernet Robot)\GUI testouts\GUI-5__11-03-09\11-3-09NetInfo\NetInfo\NetInfo\obj\Debug\NetInfo.Form1.resources
+E:\My Documents\SHANE\MSc\Projects\PART II proj\Idea 1 (Ethernet Robot)\GUI testouts\GUI-5__11-03-09\11-3-09NetInfo\NetInfo\NetInfo\obj\Debug\NetInfo.Resources.resources
+E:\My Documents\SHANE\MSc\Projects\PART II proj\Idea 1 (Ethernet Robot)\GUI testouts\GUI-5__11-03-09\11-3-09NetInfo\NetInfo\NetInfo\obj\Debug\NetInfo.vbproj.GenerateResource.Cache
+C:\NetInfo\NetInfo\obj\Debug\NetInfo.exe
+C:\NetInfo\NetInfo\obj\Debug\NetInfo.xml
+C:\NetInfo\NetInfo\obj\Debug\NetInfo.pdb
+C:\NetInfo\NetInfo\bin\Debug\NetInfo.exe
+C:\NetInfo\NetInfo\bin\Debug\NetInfo.pdb
+C:\NetInfo\NetInfo\bin\Debug\NetInfo.xml
+C:\NetInfo\NetInfo\obj\Debug\ResolveAssemblyReference.cache
+C:\NetInfo\NetInfo\obj\Debug\NetInfo.About.resources
+C:\NetInfo\NetInfo\obj\Debug\NetInfo.Config.resources
+C:\NetInfo\NetInfo\obj\Debug\NetInfo.Form1.resources
+C:\NetInfo\NetInfo\obj\Debug\NetInfo.Resources.resources
+C:\NetInfo\NetInfo\obj\Debug\NetInfo.vbproj.GenerateResource.Cache

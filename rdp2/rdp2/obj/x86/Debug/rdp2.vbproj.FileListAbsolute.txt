@@ -1,0 +1,22 @@
+C:\Users\skylar\AppData\Local\Temporary Projects\rdp2\bin\Debug\rdp2.exe
+C:\Users\skylar\AppData\Local\Temporary Projects\rdp2\bin\Debug\rdp2.pdb
+C:\Users\skylar\AppData\Local\Temporary Projects\rdp2\bin\Debug\rdp2.xml
+C:\Users\skylar\AppData\Local\Temporary Projects\rdp2\bin\Debug\Interop.MSTSCLib.dll
+C:\Users\skylar\AppData\Local\Temporary Projects\rdp2\bin\Debug\AxInterop.MSTSCLib.dll
+C:\Users\skylar\AppData\Local\Temporary Projects\rdp2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\skylar\AppData\Local\Temporary Projects\rdp2\obj\x86\Debug\Interop.MSTSCLib.dll
+C:\Users\skylar\AppData\Local\Temporary Projects\rdp2\obj\x86\Debug\AxInterop.MSTSCLib.dll
+C:\Users\skylar\AppData\Local\Temporary Projects\rdp2\obj\x86\Debug\rdp2.vbproj.ResolveComReference.cache
+C:\Users\skylar\AppData\Local\Temporary Projects\rdp2\obj\x86\Debug\rdp2.Form1.resources
+C:\Users\skylar\AppData\Local\Temporary Projects\rdp2\obj\x86\Debug\rdp2.Resources.resources
+C:\Users\skylar\AppData\Local\Temporary Projects\rdp2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\skylar\AppData\Local\Temporary Projects\rdp2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\skylar\AppData\Local\Temporary Projects\rdp2\obj\x86\Debug\rdp2.exe
+C:\Users\skylar\AppData\Local\Temporary Projects\rdp2\obj\x86\Debug\rdp2.xml
+C:\Users\skylar\AppData\Local\Temporary Projects\rdp2\obj\x86\Debug\rdp2.pdb
+E:\DOCUMENTS\Visual Studio 2010\Projects\rdp2\rdp2\obj\x86\Debug\Interop.MSTSCLib.dll
+E:\DOCUMENTS\Visual Studio 2010\Projects\rdp2\rdp2\obj\x86\Debug\AxInterop.MSTSCLib.dll
+E:\DOCUMENTS\Visual Studio 2010\Projects\rdp2\rdp2\obj\x86\Debug\rdp2.vbproj.ResolveComReference.cache
+E:\DOCUMENTS\Visual Studio 2010\Projects\rdp2\rdp2\obj\x86\Debug\rdp2.exe
+E:\DOCUMENTS\Visual Studio 2010\Projects\rdp2\rdp2\obj\x86\Debug\rdp2.xml
+E:\DOCUMENTS\Visual Studio 2010\Projects\rdp2\rdp2\obj\x86\Debug\rdp2.pdb

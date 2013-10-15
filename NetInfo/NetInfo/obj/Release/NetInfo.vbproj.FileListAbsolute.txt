@@ -1,0 +1,12 @@
+C:\NetInfo\NetInfo\bin\Release\NetInfo.exe
+C:\NetInfo\NetInfo\bin\Release\NetInfo.pdb
+C:\NetInfo\NetInfo\bin\Release\NetInfo.xml
+C:\NetInfo\NetInfo\obj\Release\ResolveAssemblyReference.cache
+C:\NetInfo\NetInfo\obj\Release\NetInfo.About.resources
+C:\NetInfo\NetInfo\obj\Release\NetInfo.Config.resources
+C:\NetInfo\NetInfo\obj\Release\NetInfo.Form1.resources
+C:\NetInfo\NetInfo\obj\Release\NetInfo.Resources.resources
+C:\NetInfo\NetInfo\obj\Release\NetInfo.vbproj.GenerateResource.Cache
+C:\NetInfo\NetInfo\obj\Release\NetInfo.exe
+C:\NetInfo\NetInfo\obj\Release\NetInfo.xml
+C:\NetInfo\NetInfo\obj\Release\NetInfo.pdb

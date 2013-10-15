@@ -1,0 +1,16 @@
+C:\Users\skylar\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\skylar\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\skylar\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\skylar\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Interop.MSTSCLib.dll
+C:\Users\skylar\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\AxInterop.MSTSCLib.dll
+C:\Users\skylar\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\skylar\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Interop.MSTSCLib.dll
+C:\Users\skylar\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\AxInterop.MSTSCLib.dll
+C:\Users\skylar\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\skylar\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\skylar\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\skylar\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\skylar\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\skylar\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\skylar\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\skylar\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
